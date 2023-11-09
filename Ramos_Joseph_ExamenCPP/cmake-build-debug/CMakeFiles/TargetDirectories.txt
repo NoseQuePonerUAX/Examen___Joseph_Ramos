@@ -1,0 +1,3 @@
+C:/Users/josep/CLionProjects/Ramos_Joseph_ExamenCPP/cmake-build-debug/CMakeFiles/Ramos_Joseph_ExamenCPP.dir
+C:/Users/josep/CLionProjects/Ramos_Joseph_ExamenCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/josep/CLionProjects/Ramos_Joseph_ExamenCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
